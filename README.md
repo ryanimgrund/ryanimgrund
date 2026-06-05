@@ -4,6 +4,7 @@ I build public-good software, data tools, and local-first apps that help people 
 
 ## Current Open Source Focus
 
+- [Civic Signal Kit](https://github.com/ryanimgrund/civic-signal-kit): a Python toolkit for transparent public-interest trend summaries from CSV time-series data.
 - [ChatWithAnyone](https://github.com/ryanimgrund/ChatWithAnyone): an experimental iOS app for local-first conversational personas using SwiftUI and Apple's Foundation Models framework.
 - Privacy-preserving AI workflows: tools that avoid unnecessary servers, analytics, and logging.
 - Education and public communication: projects that make technical ideas easier to use and understand.
@@ -19,6 +20,7 @@ I build public-good software, data tools, and local-first apps that help people 
 ## What I Am Working On
 
 - Improving test coverage and CI for Swift/iOS projects.
+- Publishing small, dependency-light civic data tools with clear assumptions and examples.
 - Turning early prototypes into maintainable open-source repositories.
 - Building contributor-friendly issue templates, release notes, and project roadmaps.
 - Exploring how Codex can reduce maintainer load for issue triage, pull request review, and release workflows.
