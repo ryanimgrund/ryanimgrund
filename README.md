@@ -1,0 +1,28 @@
+# Ryan Imgrund
+
+I build public-good software, data tools, and local-first apps that help people understand information, communicate better, and make safer decisions.
+
+## Current Open Source Focus
+
+- [ChatWithAnyone](https://github.com/ryanimgrund/ChatWithAnyone): an experimental iOS app for local-first conversational personas using SwiftUI and Apple's Foundation Models framework.
+- Privacy-preserving AI workflows: tools that avoid unnecessary servers, analytics, and logging.
+- Education and public communication: projects that make technical ideas easier to use and understand.
+
+## Maintainer Values
+
+- User privacy comes first.
+- Small, reviewable changes beat large opaque rewrites.
+- Documentation is part of the product.
+- Security and accessibility are maintenance work, not afterthoughts.
+- Open source should be useful to real people.
+
+## What I Am Working On
+
+- Improving test coverage and CI for Swift/iOS projects.
+- Turning early prototypes into maintainable open-source repositories.
+- Building contributor-friendly issue templates, release notes, and project roadmaps.
+- Exploring how Codex can reduce maintainer load for issue triage, pull request review, and release workflows.
+
+## Contact
+
+Use GitHub issues and pull requests for project-specific discussion.
