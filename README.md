@@ -9,6 +9,10 @@ I build public-good software, data tools, and local-first apps that help people 
 - Privacy-preserving AI workflows: tools that avoid unnecessary servers, analytics, and logging.
 - Education and public communication: projects that make technical ideas easier to use and understand.
 
+## Featured Project
+
+[Civic Signal Kit](https://github.com/ryanimgrund/civic-signal-kit) is my strongest current OSS candidate. It is MIT-licensed, tested in CI, dependency-free, tagged at `v0.2.0`, and designed for educators, journalists, community groups, and civic volunteers who need reproducible CSV trend summaries with visible thresholds and data-quality notes.
+
 ## Maintainer Values
 
 - User privacy comes first.
