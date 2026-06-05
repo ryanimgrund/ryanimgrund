@@ -11,7 +11,7 @@ I build public-good software, data tools, and local-first apps that help people 
 
 ## Featured Project
 
-[Civic Signal Kit](https://github.com/ryanimgrund/civic-signal-kit) is my strongest current OSS candidate. It is MIT-licensed, tested in CI, dependency-free, tagged at `v0.2.0`, and designed for educators, journalists, community groups, and civic volunteers who need reproducible CSV trend summaries with visible thresholds and data-quality notes.
+[Civic Signal Kit](https://github.com/ryanimgrund/civic-signal-kit) is my strongest current OSS candidate. It is MIT-licensed, tested in CI, dependency-free, tagged at `v0.2.0`, published on [PyPI](https://pypi.org/project/civic-signal-kit/), and designed for educators, journalists, community groups, and civic volunteers who need reproducible CSV trend summaries with visible thresholds and data-quality notes.
 
 ## Maintainer Values
 
